@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm 𝐃𝐈𝐀𝐏𝐊 𝐌𝐮𝐭𝐡𝐞</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<br>
+[![MasterHead](C:\Users\dipak\OneDrive\Pictures\mrdipak.png.jpeg)
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/lp3GUtG2waC88/giphy.gif">
 <br><br>
 # 💫 About Me:
