@@ -1,4 +1,4 @@
-![logo](https://github.com/dipakmuthe/dipakmuthe/blob/main/mrdipak.png.jpeg)
+![logo](https://github.com/dipakmuthe/dipakmuthe/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm 𝐃𝐈𝐀𝐏𝐊 𝐌𝐮𝐭𝐡𝐞</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <br>
