@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm 𝐃𝐈𝐀𝐏𝐊 𝐌𝐮𝐭𝐡𝐞</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <br>
 # 💫 About Me:
 - 👋 Hi, I’m @dipakmuthe<br>- 👀 I’m interested in web devlopment<br>- 🌱 I’m currently learning full stack Web devlopment(MREN Stack)<br>- 💞️ I’m looking to collaborate on web project<br>- 📫 How to reach me, You can message me on linkdin muthedipak (https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muthe-dipak-180b07267)<br>- ➡️ also you can dm me on insta mrdipak.14 (https://instagram.com/mr_dipak.14?igshid=YmMyMTA2M2Y=)<br>
