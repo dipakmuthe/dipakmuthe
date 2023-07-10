@@ -1,6 +1,6 @@
 ![logo](https://github.com/dipakmuthe/dipakmuthe/blob/main/banner2.jpg)
 <h1 align="center">Hi 👋, I'm 𝐃𝐈𝐀𝐏𝐊 𝐌𝐮𝐭𝐡𝐞</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate programmer from India</h3>
 <br>
 <br><br>
 # 💫 About Me:
