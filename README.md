@@ -21,7 +21,7 @@
 
 # 📊 GitHub Stats:
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahildudhal21&label=Profile+views&color=0e75b6&style=flat" alt="sahildudhal21"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dipakmuthe&label=Profile+views&color=0e75b6&style=flat" alt="dipakmuthe"/></p>
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=dipakmuthe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
