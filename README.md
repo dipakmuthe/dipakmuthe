@@ -1,4 +1,4 @@
-![logo](https://github.com/dipakmuthe/dipakmuthe/blob/main/banner2.jpg )
+![logo](https://github.com/dipakmuthe/dipakmuthe/blob/main/linkedin_banner.jpeg)
 <h1 align="center">Hi 👋, I'm 𝐃𝐈𝐀𝐏𝐊 𝐌𝐮𝐭𝐡𝐞</h1>
 <h3 align="center">A Passionate Programmer From India</h3>
 <br>
