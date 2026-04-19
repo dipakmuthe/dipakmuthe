@@ -8,7 +8,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 # 💫 About Me:
-- 👋 Hi, I’m @dipakmuthe<br><br>- 👀 I’m interested Software Development<br><br>-🌱 I’m currently learning DAta Structures and Algorithm (DSA)<br> <br>- 💞️ I’m looking to collaborate with Passionate Programmer<br><br>- 📫 How to reach me, You can message me on linkdin muthedipak (www.linkedin.com/in/dipakmuthe)<br> <br>- ➡️ also you can dm me on insta mrdipak.14 <br> (Not Available)<br>
+- 👋 Hi, I’m @dipakmuthe<br><br>- 👀 I’m interested Software Development<br><br>-🌱 I’m currently learning DAta Structures and Algorithm (DSA)<br> <br>- 💞️ I’m looking to collaborate with Passionate Programmer<br><br>- 📫 How to reach me, You can message me on linkdin muthedipak (www.linkedin.com/in/dipakmuthe)<br> <br>- ➡️ also you can dm me on insta its_dipak.21 <br> <br>
 
 <br>
 
